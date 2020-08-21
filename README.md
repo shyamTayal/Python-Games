@@ -1,4 +1,4 @@
-# Python Programs
+# Python Games
 
-Contains Various Basic Python Programs
+Contains Various Basic Python Games
 Also contains some game project using turtle package
